@@ -1,0 +1,1 @@
+First go at a Blazor x Spotify app with thanks fo Peter Bull for the workshop!
